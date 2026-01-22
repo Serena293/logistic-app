@@ -1,0 +1,21 @@
+{
+  "pricing": {
+    "base_price": 5.0,
+    "price_per_kg": 1.0,
+    "price_per_cubic_cm": 0.001,
+    "express_multiplier": 1.5,
+    "international_multiplier": 2.0
+  },
+  "alerts": {
+    "heavy_weight_kg": 20,
+    "oversized_cm": 100,
+    "bulky_volume_cm3": 50000
+  },
+  "currency": "EUR",
+  "delivery_times": {
+    "national_standard": "3-5 business days",
+    "national_express": "1-2 business days",
+    "international_standard": "7-10 business days",
+    "international_express": "3-5 business days"
+  }
+}
