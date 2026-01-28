@@ -3,8 +3,8 @@
 A full-stack web application for calculating shipping costs with automated alerts and delivery estimates.
 
 ## 🌐 Live Demo
-- **Frontend:** [https://logistics-app-xyz.web.app]()
-- **Backend API:** [https://logistics-backend-xyz.a.run.app/api/health]()
+- **Frontend:** [https://logistics-app-xyz.web.app](https://logistic-app-fe.onrender.com)
+- **Backend API:** [https://logistics-backend-xyz.a.run.app/api/health](https://logistic-app-m5tv.onrender.com)
 - **Source Code:** [https://github.com/Serena293/logistic-app](https://github.com/Serena293/logistic-app)
 
 ## 🎯 Features
