@@ -1,0 +1,2 @@
+cd ~/Desktop/Serena/PersonalProjects/logistic-app/frontend
+echo "/* /index.html 200" > public/_redirects
